@@ -4,7 +4,6 @@
 
 > Olamstech is a company of talented engineers & developers, they are one of the leading computer repair companies based in the UK
 
-## Screenshots
 ![Home](https://github.com/MindInitiatives/Olamstech-Website/blob/master/Screenshot%20(199).png)
 
 # Key Features
